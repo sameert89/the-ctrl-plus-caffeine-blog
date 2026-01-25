@@ -29,7 +29,7 @@ What is even the point of open-sourcing it if only Microsoft employees are worki
 
 Like Windows, it also feels like a vibe-coded slop fest.
 
-_Weekend One: Mirrored networking meltdown_
+## Weekend One: Mirrored networking meltdown
 
 So last week I was trying to set up a web server inside WSL for testing a few things, but when I tried to access it from another device in my local network I could not. I knew the reason why since I had struggled with it before.
 
