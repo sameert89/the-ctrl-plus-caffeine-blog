@@ -3,7 +3,7 @@ title = "VPS 101: Basics, Security, and Cool Things You Can Do"
 date = 2025-06-27
 description = "A simple guide to understanding what a VPS is, why you might need one, and how it works behind the scenes. It also covers the essential steps to secure your server and keep your data safe. Finally, you’ll find practical ideas and examples to inspire how you can use a VPS in your own projects. Whether you’re a beginner or just need a refresher, this guide will help you get started confidently."
 [extra]
-featured = true
+featured = false
 tags=["tech"]
 +++
 ![Server Rack](server_rack.jpg)
