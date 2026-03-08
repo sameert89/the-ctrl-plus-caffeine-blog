@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "guide-to-vps/index.md",
+                "file": "my-slightly-overcomplicated-homelab/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 452.01103591918945
   },
   "right": {
     "id": "0d63f1261d896d30",
@@ -188,6 +188,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -198,9 +199,18 @@
   },
   "active": "9ca4e5656d1bf9f9",
   "lastOpenFiles": [
-    "_index.md",
-    "guide-to-vps/index.md",
+    "my-slightly-overcomplicated-homelab/assets/image_1772979482187.png",
+    "my-slightly-overcomplicated-homelab/assets/image_1772979459799.png",
+    "my-slightly-overcomplicated-homelab/assets/image_1772979442958.png",
+    "my-slightly-overcomplicated-homelab/assets/no_god_memes.png",
+    "my-slightly-overcomplicated-homelab/assets/no_god_meme.png",
+    "Pasted image 20260308192558.png",
+    "my-slightly-overcomplicated-homelab/assets/homelab.jpg",
     "guide-to-vps/server_rack.jpg",
+    "wsl-networking-sucks/index.md",
+    "my-slightly-overcomplicated-homelab/index.md",
+    "guide-to-vps/index.md",
+    "_index.md",
     "test.md",
     "guide-to-vps",
     "tech/_index.md.md",

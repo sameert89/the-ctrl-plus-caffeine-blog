@@ -1,0 +1,7 @@
+{
+  "imageWidth": "200px",
+  "showNotice": true,
+  "imagePath": "./assets",
+  "useCustomPath": true,
+  "includeAlt": true
+}

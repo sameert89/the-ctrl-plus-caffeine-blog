@@ -1,0 +1,10 @@
+{
+	"id": "img2html",
+	"name": "Image to HTML",
+	"minAppVersion": "1.4.0",
+	"description": "Paste images as HTML format instead of wikilink or markdown format",
+	"author": "0x1DA9430",
+	"authorUrl": "https://github.com/0x1DA9430",
+	"isDesktopOnly": false,
+	"version": "1.0.2"
+}

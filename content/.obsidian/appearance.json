@@ -1,4 +1,6 @@
 {
-  "cssTheme": "AnuPpuccin",
-  "theme": "obsidian"
+  "cssTheme": "obsidian_ia",
+  "theme": "moonstone",
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "accentColor": ""
 }

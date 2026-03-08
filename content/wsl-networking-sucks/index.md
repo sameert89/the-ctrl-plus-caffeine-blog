@@ -4,7 +4,7 @@ title = "WSL Networking Sucks: Mirrored Mode vs Reality"
 date = 2026-01-25
 description = "A weekend-by-weekend breakdown of why mirrored networking in WSL2 keeps failing, what fixes actually work, and how to keep .local resolution alive without nuking your setup."
 [extra]
-featured = true
+featured = false
 tags=["tech","wsl","linux","windows","networking"]
 +++
 
