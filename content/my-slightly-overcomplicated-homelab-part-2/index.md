@@ -125,7 +125,7 @@ I already had some redundancy by using `RAID 1`, but I wanted to at least graze 
 
 While having full 3:2:1 is nice, it is expensive and harder to manage in general. So in my case, I went with one offsite backup to `Backblaze B2`.
 
-{% aside(type="info", title="Why B2?") %} Well buster, the main reason is that it is cheap. As of now, backing up around 800 gigs of data is costing me about $4 each month. It is S3-compatible, and egress is free. {% end %}
+**Why B2?** Well buster, the main reason is that it is cheap. As of now, backing up around 800 gigs of data is costing me about $4 each month. It is S3-compatible, and egress is free.
 
 The tool for the job was `rclone`. It supports just about every cloud provider you can imagine. The setup is simple: set up a `b2` layer as the base and then set up a `crypt` layer on top. After saving the keys securely, I pushed some data and tested a restore. Everything seemed to work.
 
