@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "my-slightly-overcomplicated-homelab/index.md",
+                "file": "my-slightly-overcomplicated-homelab-part-2/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,31 +22,17 @@
             }
           },
           {
-            "id": "7ce6333e9e501a04",
+            "id": "6a1c6f6c65de2a13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "my-slightly-overcomplicated-homelab-part-1/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
-            }
-          },
-          {
-            "id": "954e0311c48d46a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_index"
+              "title": "index"
             }
           }
         ]
@@ -106,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452.01103591918945
+    "width": 304.01103591918945
   },
   "right": {
     "id": "0d63f1261d896d30",
@@ -122,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "my-slightly-overcomplicated-homelab/index.md",
+                "file": "my-slightly-overcomplicated-homelab-part-2/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,14 +185,19 @@
   },
   "active": "9ca4e5656d1bf9f9",
   "lastOpenFiles": [
+    "my-slightly-overcomplicated-homelab-part-1/index.md",
+    "my-slightly-overcomplicated-homelab-part-2/index.md",
+    "my-slightly-overcomplicated-homelab-part-2/assets/image_1773602689107.png",
+    "my-slightly-overcomplicated-homelab-part-2/assets/image_1773602457100.png",
+    "Untitled.md",
+    "my-slightly-overcomplicated-homelab-part-2/assets/image_1773602071115.png",
+    "my-slightly-overcomplicated-homelab-part-2/assets/image_1773599834790.png",
+    "my-slightly-overcomplicated-homelab-part-2/assets/c1.svg",
+    "my-slightly-overcomplicated-homelab-part-2/assets/c2.svg",
     "my-slightly-overcomplicated-homelab/assets/image_1772979482187.png",
     "my-slightly-overcomplicated-homelab/assets/image_1772979459799.png",
     "my-slightly-overcomplicated-homelab/assets/image_1772979442958.png",
     "my-slightly-overcomplicated-homelab/assets/no_god_memes.png",
-    "my-slightly-overcomplicated-homelab/assets/no_god_meme.png",
-    "Pasted image 20260308192558.png",
-    "my-slightly-overcomplicated-homelab/assets/homelab.jpg",
-    "guide-to-vps/server_rack.jpg",
     "wsl-networking-sucks/index.md",
     "my-slightly-overcomplicated-homelab/index.md",
     "guide-to-vps/index.md",
@@ -217,13 +209,11 @@
     "tech/assets",
     "tech",
     "Tech/A Zero F's given guide to Virtual Private Servers (VPS).md",
-    "dogshit/assets/server-2546330_1920.jpg",
     "dogshit/assets",
     "dogshit/_index.md.md",
     "dogshit/A Zero F's given guide to Virtual Private Servers (VPS).md",
     "dogshit",
     "Tech/assets",
-    "Tech/assets/server-2546330_1920.jpg",
     "Tech/_index.md.md",
     "Tech"
   ]

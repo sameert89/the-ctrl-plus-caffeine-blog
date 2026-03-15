@@ -54,7 +54,7 @@ I set out to build my own **home server** from scratch to replace all my subscri
 >
 > _Media:_ Replaces Spotify, Netflix, and alike with a self-hosted library (Plex/Jellyfin/Arr stack).
 >
-> _AI:_ Replaces ChatGPT/Claude subscriptions with local LLMs (Ollama); no need to jump providers every month for the latest SOTA.
+> _AI:_ Replaces ChatGPT/Claude subscriptions; no need to jump providers every month for the latest SOTA.
 >
 > _Maintenance:_ Seamless, automated updates (Watchtower) and a centralized dashboard for "set-and-forget" upkeep.
 >
